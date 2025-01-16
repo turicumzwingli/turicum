@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Fidei Ratio \(1531\)"
+title: "Fidei Ratio (1531)"
 author: Huldrych Zwingli
 translator: Bruce Gordon
 digital editor: Serena Strecker
