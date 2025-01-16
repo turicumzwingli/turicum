@@ -8,7 +8,8 @@ rights: Public Domain
 source: insert source
 publication-date: 2025
 toc:
-- Preface
+- Editor's note
+- Title page
 - Letter to Charles, Emperor of the Romans
   
 ---
