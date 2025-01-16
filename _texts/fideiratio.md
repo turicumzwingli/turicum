@@ -23,18 +23,9 @@ Insert editor's note
 
 <a id="title-page" />
 
-<p class="centered large">br><br><br></p>
-<br>
 <p class="centered larger">FIDEI RATIO</p>
 
-<p class="centered large">br><br></p>
-<br>
-
 <p class="centered">1531</p>
-
-<p class="centered"><br><br></p>
-
-<p class="centered small"></p>
 
 ---
 
