@@ -2,19 +2,19 @@
 
 # Setup
 title:               Zwingli Project
-tagline:             ''
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+tagline:             'Sources of the Swiss Reformation'
+description:         'The Zwingli Project is an online repository of writings by Huldrych Zwingli.'
+url:                 'http://scstrecker.github.io/'
+baseurl:             '/zwingliproject'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Serena Strecker
+  url:               https://orcid.org/my-orcid?orcid=0000-0002-4259-2468
+  email:             serena.strecker@yale.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: red
 
 # Permalinks
 permalink: pretty
