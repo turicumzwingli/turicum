@@ -35,6 +35,13 @@ Indeed Zwingli and his colleagues made extensive use of the Wormser Prophets in 
 
 The Prophetenbibel appeared in two forms in 1529. The first was a folio edition that included the prophets together with the books of the Apocrypha and a German New Testament. The second was a much smaller octavo edition with only the translations of the prophets. The difference was not just size. The folio edition contained the text is Swiss German and was intended primarily for the clergy for study and preaching. The octavo was written in the German of the Upper Rhine, signaling its intended readership in German lands. Neither edition was reprinted. The Prophetenbibel was a first step towards the complete Bible that appeared two years later. 
 
+---
+
+## Note on authorship
+
+The author of the preface to the Prophetenbibel is not named, clearly signally that book was to demonstrate the collective work of the Zurich scholars. Nevertheless, it is clear that it was the work of Zwingli.
+
+
 
 ---
 
