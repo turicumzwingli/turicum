@@ -54,7 +54,7 @@ toc:
 
 ---
 
-## Historical Context 
+## Historical Context
 
 Zwingli wrote *Christianae Fidei* in 1531 as both a theological testament and a diplomatic appeal, composed in Latin and addressed to King Francis I of France. His immediate aim was to offer a clear, comprehensive, and persuasive account of evangelical (i.e., Reformed) doctrine to defend it against accusations of heresy and sedition—particularly those leveled by Roman Catholic opponents and by those who conflated Zwingli’s views with the radicalism of the Anabaptists. In a time of mounting political and theological tension, the treatise sought to present Reformed Christianity as biblically grounded, rational, peaceable, and worthy of royal protection. The situation for the Swiss was extremely precarious. Zwingli’s influence in the cities of the southern German Empire had been extensive, but the conflict with Luther over the Lord’s Supper had been extremely damaging. The exclusion of the Swiss from the discussions at Augsburg had left them isolated and vulnerable. Within the Swiss Confederation the prospects for war with the Catholic Confederates was great. The First Kappel War had ended with Reformed Confederates in a strong position but Zwingli was deeply disappointed by why what he saw as too much compromise. In this volatile context, Zwingli hoped to win external allies for the Reformation—particularly the French king, who despite persecuting Protestants at home, was not entirely unsympathetic to anti-imperial and humanist reform currents.
 
