@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Zwingli Project
-tagline:             'Sources of the Swiss Reformation'
-description:         'The Zwingli Project is an online repository of writings by Huldrych Zwingli.'
+title:               Turicum
+tagline:             'The Writings of Huldrych Zwingli'
+description:         'Turicum is an online repository of writings by Huldrych Zwingli.'
 url:                 'http://scstrecker.github.io/'
-baseurl:             '/zwingliproject'
+baseurl:             '/turicum'
 
 # About/contact
 author:
