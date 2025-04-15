@@ -130,21 +130,21 @@ Because no language on earth can be translated into another with absolute precis
 
 Take, for example, the opening verse of Isaiah. It is often translated literally from the Hebrew as:
 “This is the vision of Isaiah son of Amoz, which he saw concerning Judah and Jerusalem” (cf. Isaiah 1:1).
-This rendering is indeed faithful to the Hebrew, as the word hazon does mean “vision.”
+This rendering is indeed faithful to the Hebrew, as the word *hazon* does mean “vision.”
 
-However, for a German reader, the word Gesicht (“vision”) can be ambiguous—does it refer to physical eyesight? An appearance? A supernatural revelation?
+However, for a German reader, the word *Gesicht* (“vision”) can be ambiguous—does it refer to physical eyesight? An appearance? A supernatural revelation?
 
-Since the German term Gesicht can mean any of these, we have instead chosen to use the word prophecy, and in place of “saw” (gesähen), we have written “prophesied” (prophetieren).
+Since the German term *Gesicht* can mean any of these, we have instead chosen to use the word prophecy, and in place of “saw” (*gesähen*), we have written “prophesied” (*prophetieren*).
 
-We would not have made this change if Gesicht were as clearly understood among Germans as hazon is for the Hebrews. In Hebrew, hazon refers explicitly to divine revelation—something shown or disclosed by God in a supernatural way. For example, Jeremiah saw a branch of an almond tree and a boiling pot in a vision (cf. Jeremiah 1:11,13), and Peter saw a sheet descending from heaven, full of unclean animals (cf. Acts 10:11–12).
+We would not have made this change if *Gesicht* were as clearly understood among Germans as *hazon* is for the Hebrews. In Hebrew, *hazon* refers explicitly to divine revelation—something shown or disclosed by God in a supernatural way. For example, Jeremiah saw a branch of an almond tree and a boiling pot in a vision (cf. Jeremiah 1:11,13), and Peter saw a sheet descending from heaven, full of unclean animals (cf. Acts 10:11–12).
 
-But hazon can also refer to an internal enlightenment—a spiritual illumination—without any external vision. For example, God inspired David inwardly to gather wood and materials for building the temple, though there was no visible manifestation (cf. 2 Samuel 7). Therefore, we have adapted our translation not to distort the text, but to make it clearer and more intelligible for German readers.
+But *hazon* can also refer to an internal enlightenment—a spiritual illumination—without any external vision. For example, God inspired David inwardly to gather wood and materials for building the temple, though there was no visible manifestation (cf. 2 Samuel 7). Therefore, we have adapted our translation not to distort the text, but to make it clearer and more intelligible for German readers.
 
-If Germans understood the word Gesicht in the same way that the Hebrews understand hazon, we would have used it. But because Gesicht does not fully capture the nature and depth of Isaiah’s ministry, we chose instead the word prophecy.
+If Germans understood the word Gesicht in the same way that the Hebrews understand *hazon*, we would have used it. But because *Gesicht* does not fully capture the nature and depth of Isaiah’s ministry, we chose instead the word *prophecy*.
 
 This term is richer and broader than “vision.” It encompasses multiple meanings, especially as seen in Scripture. First, “prophecy” refers to the interpretation of God’s Word, as Paul writes in 1 Corinthians 14:1, 3, 4.
 
-In the first sense, prophecy occurs when someone reads the Word of God—spoken by the Spirit—and then interprets, explains, and applies it to guide people toward God, reform their lives, and call them to righteousness. Second, prophecy also includes foretelling future events: for example, when the prophets offer comfort and salvation to the faithful (cf. Isaiah 40:1–2) or pronounce judgment on the wicked (cf. Isaiah 1:4,24). Third, the verb prophetieren ("to prophesy") also refers to receiving divine revelations, issuing warnings, or announcing God’s promises—as seen in 1 Corinthians 11:2; 14:3, Amos 3:1,13; and Luke 2:25–26, 34–35.
+In the first sense, prophecy occurs when someone reads the Word of God—spoken by the Spirit—and then interprets, explains, and applies it to guide people toward God, reform their lives, and call them to righteousness. Second, prophecy also includes foretelling future events: for example, when the prophets offer comfort and salvation to the faithful (cf. Isaiah 40:1–2) or pronounce judgment on the wicked (cf. Isaiah 1:4,24). Third, the verb *prophetieren* ("to prophesy") also refers to receiving divine revelations, issuing warnings, or announcing God’s promises—as seen in 1 Corinthians 11:2; 14:3, Amos 3:1,13; and Luke 2:25–26, 34–35.
 
 To summarize: Prophecy is the office of proclaiming the will and commandments of God, faithfully and with conviction, and making His Word understandable.
 
