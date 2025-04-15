@@ -67,7 +67,7 @@ In *Christianae Fidei*, then, Zwingli offers a coherent theological vision: one 
 
 ---
 
-Brief and Clear Exposition of the Christian Faith (1531) 
+## Brief and Clear Exposition of the Christian Faith (1531) 
 
 
 Preface by Huldrych Zwingli to His Exposition of the Faith Addressed to the Most Christian King
