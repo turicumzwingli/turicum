@@ -61,7 +61,10 @@ Five hundred years after the beginning of his ministry in Zurich, Zwingli remain
 
 ## Sources
 
-- 
+- Christianae Fidei (1531)
+- Fidei Ratio (1531)
+- Preface to The Prophetenbibel (1529)
+- Von dem Predigtamt (1525)
 
 
 ## Current Features
