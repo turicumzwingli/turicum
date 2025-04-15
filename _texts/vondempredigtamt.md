@@ -1,3 +1,4 @@
+---
 layout: narrative
 title: "Von dem Predigtamt (On the Office of Preaching) June 30, 1525"
 author: Huldrych Zwingli
