@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-Turicum is an online repository of English translations of writings by Swiss reformer Huldrych Zwingli. 
-
-Introduction
+## Introduction
 
 2025 marks the five-hundredth anniversary of the establishment of the Reformed Church in Zurich. As one of the most significant centers of the Protestant Reformation, Zurich played a foundational role in shaping Reformed theology and ecclesiastical life. Yet despite the city's historical importance, access to the writings of its principal reformer, Huldrych Zwingli, remains limited—particularly in English.
 
