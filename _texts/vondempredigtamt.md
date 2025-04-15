@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Von dem Predigtamt (On the Office of Preaching) June 30, 1525"
+title: "Von dem Predigtamt (1525)"
 author: Huldrych Zwingli
 translator: Bruce Gordon
 digital editor: Serena Strecker
@@ -28,6 +28,14 @@ By 1525, Zwingli’s reform movement was splintering. Former allies like Konrad 
 Zwingli viewed the city council of Zurich as a legitimate Christian authority. The Reformation in Zurich had proceeded with the support of the magistrates, and Zwingli argued that they had a duty to supervise the purity of doctrine and worship. In *Von dem Predigtamt*, he upheld a vision of the church as a civic and public institution, not a secretive sect. By insisting on order, appointment, and discipline, he defended the role of preaching within a Christian commonwealth and rejected anarchic religious individualism.
 
 Zwingli’s theology placed ultimate authority in the Word of God, not in bishops, councils, or tradition. *Von dem Predigtamt* reinforced this principle by rooting the preacher’s authority in biblical example, especially in the role of the prophets and apostles. He emphasized that the Spirit works through the faithful proclamation of Scripture, and not through hierarchical mediation or mystical inspiration.
+
+---
+
+<a id="title-page" />
+
+<p class="centered larger">Von dem Predigtampt (On the Office of Preaching)</p>
+
+<p class="centered">June 30, 1525</p>
 
 ---
 
