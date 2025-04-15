@@ -107,7 +107,7 @@ I will not go into detail about what compelled me to write this little book. The
 
 With this writing, I aim to show—through their very own actions—that they are not sent by God. What they do should not be allowed in any congregation unless it has the full, united approval of the entire church community.
 
-Although this book is titled On the Office of Preaching, I will also—God willing—discuss the nature of teaching more broadly, especially as it was practiced in the time of the holy apostles.
+Although this book is titled *On the Office of Preaching*, I will also—God willing—discuss the nature of teaching more broadly, especially as it was practiced in the time of the holy apostles.
 
 To begin, let us reflect on Paul’s words in Ephesians 4:11–14:
 
@@ -162,12 +162,12 @@ From this, we see that among those who serve the Word, there is no real distinct
 That is why I often say: if those who claim to be apostles today—such as bishops and high church officials—truly followed the apostolic model, they too would go without purse or provisions. But what do they actually do? Even the devil himself could not be more deceptive. They do not preach at all, yet they insist on being called apostles. They travel with pomp and pageantry, as if they were rulers of the earth, not messengers of Christ.
 They cannot possibly be apostles or messengers of God, for they do not walk in the Word—they do not even carry it. And those who do preach the Word but remain stationary in one place—these we will speak of later.
 
-Next, Paul says in Ephesians 4:11: “And some He appointed as prophets.”
-The word prophet is not Hebrew but Greek, derived from the term meaning “to speak before” or “to foretell.” It properly refers to someone who predicts or proclaims future events. In the Old Testament, prophets carried out this role, but in the New Testament era, their work is continued by evangelists, bishops, or pastors.
+Next, Paul says in Ephesians 4:11: “*And some He appointed as prophets.*”
+The word *prophet* is not Hebrew but Greek, derived from the term meaning “to speak before” or “to foretell.” It properly refers to someone who predicts or proclaims future events. In the Old Testament, prophets carried out this role, but in the New Testament era, their work is continued by evangelists, bishops, or pastors.
 
 Prophets observed the sins of the people—either warning against them before they took hold, or confronting and uprooting them once they had. As God said to Jeremiah (Jer. 1:9–10):
 
-“Behold, I have put My words in your mouth. I have appointed you this day over nations and kingdoms, to uproot and to tear down, to destroy and to overthrow, to build and to plant.”
+*“Behold, I have put My words in your mouth. I have appointed you this day over nations and kingdoms, to uproot and to tear down, to destroy and to overthrow, to build and to plant.”*
 
 This, in essence, is the prophet’s task: to tear down everything that sets itself against God, and to build and plant what aligns with His will.
 
@@ -176,19 +176,17 @@ In the time of the apostles, certain men were also called prophets—not because
 The apostolic letters (epistles) were written to confirm and strengthen a faith that had already been passed on through preaching. So it is clear that those who interpreted the Old Testament Scriptures in the churches were also called prophets in apostolic times.
 This is made especially clear in 1 Corinthians 14:26–33, where Paul writes:
 
-“When you come together, each of you has a psalm, a teaching, a tongue, a revelation, or an interpretation. Let all things be done for building up. If anyone speaks in a tongue, let there be only two or three, and each in turn, and let someone interpret. But if there is no interpreter, let each of them keep silent in the church and speak to himself and to God. Let two or three prophets speak, and let the others weigh what is said. If a revelation is made to another sitting there, let the first be silent. For you can all prophesy one by one, so that all may learn and be encouraged. And the spirits of prophets are subject to prophets. For God is not a God of confusion but of peace.”
+*“When you come together, each of you has a psalm, a teaching, a tongue, a revelation, or an interpretation. Let all things be done for building up. If anyone speaks in a tongue, let there be only two or three, and each in turn, and let someone interpret. But if there is no interpreter, let each of them keep silent in the church and speak to himself and to God. Let two or three prophets speak, and let the others weigh what is said. If a revelation is made to another sitting there, let the first be silent. For you can all prophesy one by one, so that all may learn and be encouraged. And the spirits of prophets are subject to prophets. For God is not a God of confusion but of peace.”*
 
 This means: when the church gathers to hear the Psalms or the Scriptures, some will be trained and learned, others may know languages (especially Hebrew), others may have received insight from God, and some may be able to interpret—that is, to translate from Hebrew into Greek or the local language. These things should all be done in such a way that they build up the congregation.
 
-For example, many Jews who converted to Christ lived among Gentiles who also came to faith. If someone among them knew Hebrew, they would read or recite the Scriptures aloud. Then someone else would interpret the reading for the people.
-Anyone who could not interpret or explain the meaning should remain silent during the teaching of the prophets and speak only quietly with themselves and with God.
-Even when the Scriptures were read in two languages, many still could not understand them. That is why prophets were necessary: to explain the meaning and to make God's will known. This means prophets had to be well educated in languages, because all the other spiritual gifts were meant to lead to the highest gift: the ability to interpret and explain God’s Word.
+For example, many Jews who converted to Christ lived among Gentiles who also came to faith. If someone among them knew Hebrew, they would read or recite the Scriptures aloud. Then someone else would interpret the reading for the people. Anyone who could not interpret or explain the meaning should remain silent during the teaching of the prophets and speak only quietly with themselves and with God. Even when the Scriptures were read in two languages, many still could not understand them. That is why prophets were necessary: to explain the meaning and to make God's will known. This means prophets had to be well educated in languages, because all the other spiritual gifts were meant to lead to the highest gift: the ability to interpret and explain God’s Word.
 
-As Paul says in 1 Corinthians 14:1: “Pursue spiritual gifts, but especially that you may prophesy.” That is, to interpret and explain the Holy Scriptures.
+As Paul says in 1 Corinthians 14:1: *“Pursue spiritual gifts, but especially that you may prophesy.”* That is, to interpret and explain the Holy Scriptures.
 
 When prophets explained the Scriptures, the entire congregation was expected to evaluate what was said—to judge whether the interpretation was true.
 
-Now someone might ask: How can the congregation judge something they are hearing for the first time? The answer is simple: through God, who dwells within them. When God is present in a person, that person can immediately sense whether something is spoken to the glory of God and for the peace and strengthening of His people—or not.
+Now someone might ask: *How can the congregation judge something they are hearing for the first time?* The answer is simple: through God, who dwells within them. When God is present in a person, that person can immediately sense whether something is spoken to the glory of God and for the peace and strengthening of His people—or not.
 
 From this, we learn an essential truth: the pope and all his followers must be subject to the judgment of the church—that is, to those whom they preach to. The pope has no right to impose the Word on the people. Instead, the people must examine his teaching. If his message does not align with the truth of God’s Word, they are not obligated to accept it.
 See how deluded the papacy has become! They do not teach, yet they presume to dictate what others must believe.
@@ -206,7 +204,7 @@ I could give many examples. Learned and faithful interpreters of Scripture have 
 
 Paul writes in 1 Corinthians 14:30–33 that prophets should yield to one another when the truth is revealed—even to those who are seated. This is because "the spirits of prophets are subject to prophets." In other words, if they are truly prophets of God, they will humbly yield to those who rightly interpret Scripture.
 
-All Must Be Done in Peace
+## All Must Be Done in Peace
 
 All of this must happen peacefully, for God is not a God of confusion or conflict, but of peace.
 
@@ -222,19 +220,19 @@ They do not go to unbelieving churches to share the Gospel. Instead, they bring 
 This proves they do not serve the God of peace, but the spirit of disorder and conflict.
 They are like those who came to Antioch saying, "Unless you are circumcised, you cannot be saved" (Acts 15:5), thereby unsettling the Christian community. Similarly, the Anabaptists now say, "Unless you are rebaptized, you cannot be saved"—bringing the same kind of confusion.
 
-Two Functions Within the Office of Prophet
+## Two Functions Within the Office of Prophet
 
 From this, we can distinguish two primary roles within the prophetic office. First, the Old Testament, prophets opposed evil and promoted good. In the New Testament, pastors or "watchmen" do the same. In this sense, the offices of prophet, evangelist, and pastor are one and the same. Secondly, in larger churches, another aspect of the prophetic office emerges: public explanation of Scripture, especially of the Old Testament, when people gather to study the Word. This practice is not yet widespread, but if God wills, it will soon begin here in Zurich. Arrangements are already being made, as previously promised, through the reformation of the Grossmünster (Great Minster). Strictly speaking, one cannot hold this second office unless they are trained in the biblical languages and capable of interpreting Scripture.
 
-Paul continues in Ephesians 4:11: “And some He appointed as evangelists.”
+Paul continues in Ephesians 4:11: *“And some He appointed as evangelists.”*
 
 The office of evangelist is essentially the same as that of prophet, assuming the prophet also serves as a pastor—one who tears out evil and plants what is good. In that sense, the evangelist is no different from a bishop or pastor. This is confirmed by Paul in 2 Timothy 4:5, where he tells Timothy, "Do the work of an evangelist; fulfill your ministry." And yet Timothy was a bishop. Therefore, the office of bishop and evangelist are one and the same.
-Paul affirms this again in 2 Timothy 4:2: “Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with all patience and instruction.”
+Paul affirms this again in 2 Timothy 4:2: *“Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with all patience and instruction.”*
 
 What is that but the task of a bishop, prophet, or shepherd? In terms of teaching, their duties are no different than those of the apostles. The only difference is this: the apostles were travelers, while bishops are settled in a specific place, serving a particular congregation. Apostles were not to possess property, while it is entirely fitting for pastors to have a home and means of support—despite what some unruly factions might claim.
 Paul writes in Titus 1:5–9:
 
-“For this reason I left you in Crete, that you might put what remained into order and appoint elders in every town, as I directed you—men who are blameless, the husband of one wife, with believing children who are not wild or disobedient. For a bishop must be blameless, a steward of God—not arrogant, not quick-tempered, not a drunkard, not violent, not greedy for gain—but hospitable, a lover of good, self-controlled, upright, holy, and disciplined. He must hold firmly to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and to rebuke those who contradict it.”
+*“For this reason I left you in Crete, that you might put what remained into order and appoint elders in every town, as I directed you—men who are blameless, the husband of one wife, with believing children who are not wild or disobedient. For a bishop must be blameless, a steward of God—not arrogant, not quick-tempered, not a drunkard, not violent, not greedy for gain—but hospitable, a lover of good, self-controlled, upright, holy, and disciplined. He must hold firmly to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and to rebuke those who contradict it.”*
 
 These are well-known words among Christians, but I wish to highlight what is most relevant here.
 
@@ -244,11 +242,11 @@ Second, Paul specifies that a bishop must be a respectable man who manages his h
 
 So what should we make of those who say, "Your pastor should not own a house—he should live as a guest in others’ homes"? They argue, "If he owns a house, he can no longer speak the truth." But Paul writes in 1 Timothy 3:4:
 
-“He must manage his own household well, keeping his children respectful and obedient.”
+*“He must manage his own household well, keeping his children respectful and obedient.”*
 
 And shortly after:
 
-“For if someone does not know how to manage his own household, how will he care for God’s church?”
+*“For if someone does not know how to manage his own household, how will he care for God’s church?”*
 
 This reveals the distinction between apostles and bishops, so we may clearly identify the spirit of those who promote rebellion.
 
@@ -256,7 +254,7 @@ One might add here that the very poor—those in utter need—are often less lik
 
 What is clear is this: A bishop must have a household. That is, he must not be disorderly, quarrelsome, lazy, or neglectful. A bishop should be a dignified, respectful man, managing his household in such a way that no scandal arises. Where such order exists, there is every reason to believe he will also serve his church honorably—without exploiting or burdening others.
 
-How would you act, you contentious men, if Titus had chosen, among the Cretans, a well-off and wealthy man for the office of bishop? Therefore, look more carefully to Scripture and set aside your quarrels. Paul here neither specifies rich nor poor, but says that a bishop should be a good household manager. This should not be understood as referring merely to financial bookkeeping, for he also says that the bishop must not be greedy for shameful gain. From this, the whole church has rightly learned not to appoint to the office of bishop those who are lavish, shameless profiteers, usurers, or tax-farmers.
+**How would you act, you contentious men,** if Titus had chosen, among the Cretans, a well-off and wealthy man for the office of bishop? Therefore, look more carefully to Scripture and set aside your quarrels. Paul here neither specifies rich nor poor, but says that a bishop should be a good household manager. This should not be understood as referring merely to financial bookkeeping, for he also says that the bishop must not be greedy for shameful gain. From this, the whole church has rightly learned not to appoint to the office of bishop those who are lavish, shameless profiteers, usurers, or tax-farmers.
 
 Moreover, one can see from Paul’s diligence in outlining the bishop’s character how one should assist them, such that not only the rich are chosen. “For it is hard for the rich to enter the kingdom of heaven,” as Christ says in Luke 18:24. Yet still, they had to choose those who had nevertheless managed their household well. That is not easily done by beggars, for beggars have neither house nor household. Paul means by a “householder” a disciplined man who governs his household in such a way that no one is harmed, and who is decent, obedient, and strives for justice. Where such a household and householder exist, one can be confident that a modest living is maintained without burdening or exploiting others.
 
@@ -288,7 +286,7 @@ Likewise with benefices: we may rightly judge that they arose when charitable gi
 
 Let me give an example: I have often been asked to relinquish my benefice, and surely a respectable council would at least have provided me with a hundred guilders. I would have received far more than otherwise. May God grant that the false accusations made against me by these lying troublemakers be disproven. Moreover, several citizens have made generous offers to me.
 
-Dear friend, tell me: what was I to do? I saw clearly that if I had renounced my benefice, my income would have increased—for I know very well how the devout monk-preachers and indulgence-masters have profited. I was also promised well over a hundred guilders annually by certain individuals, and had the council added another hundred, and had I otherwise adjusted myself to the system of payments, I would certainly have fared far better than with a benefice. But what would have been the result? My successors would have followed the same path of profiteering, just as I had done, and all the zeal for true teaching would have been corrupted into mere flattery.
+**Dear friend, tell me: what was I to do?** I saw clearly that if I had renounced my benefice, my income would have increased—for I know very well how the devout monk-preachers and indulgence-masters have profited. I was also promised well over a hundred guilders annually by certain individuals, and had the council added another hundred, and had I otherwise adjusted myself to the system of payments, I would certainly have fared far better than with a benefice. But what would have been the result? My successors would have followed the same path of profiteering, just as I had done, and all the zeal for true teaching would have been corrupted into mere flattery.
 
 Since no one is too wise or too strong to be immune to such temptation—just as with other trials—and God tests us in many ways, I have been content with a modest prebend as canon. I am convinced it is far better that a pastor receive a fair and fixed provision each year. That way, no one needs to slip anything to him in secret. For one accustomed to living off offerings always presents himself as if he has nothing and takes whatever is given to him. But if he has a definite benefice, no one needs to pity him, for all know he has sufficient means. And thus the harmful system of “gift payments” is completely abolished.
 
@@ -522,7 +520,7 @@ If they had been rewarded according to their presumptuous and deceitful words—
 
 The Lord is coming soon [cf. Phil. 4:5]; He is near—may He not find us sleeping when He arrives [cf. Mark 13:35–36]. Therefore, be diligent and hopeful, and you will undoubtedly be victorious. May God grant His grace. Amen.
 
-In the Book on Baptism, a single word has altered the entire meaning: in M. M., on the second leaf, in the first part, on the thirteenth line, it should read: “That these had not previously been baptized with water.”
+In the *Book on Baptism*, a single word has altered the entire meaning: in *M. M.*, on the second leaf, in the first part, on the thirteenth line, it should read: “That these had not previously been baptized with water.”
 
 I was previously unable to reread the little book carefully myself; others have pointed this out to me. There may well be many more such errors in it. Let each reader attend carefully to the sense.
 
