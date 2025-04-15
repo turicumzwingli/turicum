@@ -49,14 +49,14 @@ The exegetical principles underlying Zwingli’s *Prophetenbibel* (1529) reflect
 Zwingli's primary hermeneutical conviction was that Scripture is self-authenticating and self-interpreting. He did not rely on ecclesiastical tradition or church authority to determine the meaning of biblical texts. Instead, he believed the inner coherence of the biblical canon allowed for passages to elucidate one another.
 
 Zwingli emphasized the need to understand each prophetic book in its historical setting—the political, social, and theological situation of Israel or Judah at the time of writing. He paid close attention to:
-•	Authorship and dating
-•	Occasion of the prophecy
-•	Literary structure and genre (e.g., oracles, laments, visions)
+* Authorship and dating
+* Occasion of the prophecy
+* Literary structure and genre (e.g., oracles, laments, visions)
 
 This historical sensitivity did not diminish the Christological dimension, but grounded it in salvation history (*Heilsgeschichte*), in which God’s covenant dealings with Israel prefigure the fulfillment in Christ.
 Zwingli read the prophets as guides for ethical and political life. Their condemnations of injustice, false worship, and corrupt rulers were applied directly to the Zurich context. For Zwingli, the prophetic office had a dual focus:
-•	Calling the people to repentance and faith
-•	Calling rulers to govern in accordance with divine justice
+* Calling the people to repentance and faith
+* Calling rulers to govern in accordance with divine justice
 
 Thus, exegesis was never purely academic—it had concrete implications for preaching, governance, and education.
 
