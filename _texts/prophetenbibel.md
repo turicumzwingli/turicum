@@ -10,8 +10,9 @@ publication-date: 2025
 toc:
 - Overview
 - Background
-- Note on authorship
-- Preface
+- Exegetical Principles
+- Theological Themes
+- A Foreward to the Prophets (1529)
   
 ---
 
