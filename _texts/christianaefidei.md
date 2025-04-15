@@ -12,7 +12,6 @@ toc:
 - Apologetic Purpose
 - Theological Testament
 - Theological Overview
-- Brief and Clear Exposition of the Christian Faith (1531)
 - Concerning God and His Worship
 - Our Liturgical Practice
 - Faith and Works
