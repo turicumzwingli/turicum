@@ -12,14 +12,7 @@ toc:
 - Apologetic Purpose
 - Theological Testament
 - Theological Overview
-- Concerning God and His Worship
-- Our Liturgical Practice
-- Faith and Works
-- On Eternal Life
-- Rebuttal and Plea to the King
-- On the Presence of Christ’s Body in the Supper
-- Appendix I: Bullinger’s Preface to the 1536 Edition
-- Appendix II: Leo Jud’s Preface to His German Translation
+- Brief and Clear Exposition of the Christian Faith (1531)
   
 ---
 
