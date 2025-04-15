@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Preface to The Prophets Bible (Prophetenbibel) 1529"
+title: "Preface to The Prophetenbibel (1529)"
 author: Huldrych Zwingli
 translator: Bruce Gordon
 digital editor: Serena Strecker
