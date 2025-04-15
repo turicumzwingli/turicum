@@ -3,18 +3,6 @@ layout: page
 title: About
 ---
 
-## Introduction
-
-2025 marks the five-hundredth anniversary of the establishment of the Reformed Church in Zurich. As one of the most significant centers of the Protestant Reformation, Zurich played a foundational role in shaping Reformed theology and ecclesiastical life. Yet despite the city's historical importance, access to the writings of its principal reformer, Huldrych Zwingli, remains limited—particularly in English.
-
-Although a number of Zwingli’s works have been translated, these translations are often difficult to obtain. Many were published in the early twentieth century and reflect a formal, Latinate English style that can be challenging for modern readers, both in tone and in theological clarity. As a result, students, scholars, and laypeople alike face considerable barriers in engaging directly with Zwingli’s theological vision, scriptural exegesis, and pastoral writings.
-
-This linguistic and editorial distance has contributed to Zwingli’s relative obscurity in English-speaking contexts, especially in comparison to Luther and Calvin, whose works have long circulated in widely accessible, readable translations. The lack of contemporary English editions of Zwingli’s key texts not only hampers scholarly study but also obscures the legacy of a reformer who fundamentally shaped the development of Reformed thought—from his early emphasis on sola scriptura and Christian liberty to his distinctive understanding of the sacraments and his role in forging a Christian civic order.
-
-In this anniversary year, there is an urgent need to recover Zwingli’s voice in a language and form that speaks to present-day readers. Making his writings available in clear, accurate, and elegant modern English is essential not only for understanding the historical roots of the Reformed tradition but also for renewing engagement with one of the Reformation’s most original and challenging thinkers.
-
-This site presents a growing collection of newly commissioned translations alongside thoroughly revised versions of earlier English renderings, each carefully checked against the original Latin and German texts. The hope is to present Zwingli in readable translations. Designed for both teaching and broader public engagement, these translations aim to make the writings of the Reformation more accessible to a contemporary audience. Additional texts will be added in the coming months and years as the project continues to expand.
-
 ## Why Zwingli? 
 
 Huldrych Zwingli (1484–1531) ranks among the principal architects of the Protestant Reformation, alongside Martin Luther and John Calvin. As the leading reformer in Zurich, Zwingli played a decisive role in shaping early Reformed theology and in establishing a distinct ecclesiastical tradition rooted in the authority of Scripture, the rejection of papal supremacy, and the transformation of Christian worship.
