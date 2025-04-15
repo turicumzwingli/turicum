@@ -13,6 +13,42 @@ toc:
 - Theological Testament
 - Theological Overview
 - Brief and Clear Exposition of the Christian Faith (1531)
+- Concerning God and His Worship
+- On Christ the Lord
+- On Purgatory
+- Appendix on the Eucharist and the Mass
+- Refuting the Sacrifice of the Mass
+- Augustine on the Eucharist
+- Our Liturgical Practice
+- The Church
+- The Magistrate and Political Authority
+- John and the Magistrate
+- The Magistrate and the Church
+- The Forgiveness of Sins
+- Faith and Works
+- On Works Without Faith and God’s Will
+- On Works According to God's Law and the Question of Merit
+- On Reward and the Language of Merit
+- On Works and Servile Mentality
+- On the Weakness of Faith and the Presence of Unbelief in the Church
+- On Eternal Life
+- Scriptural Witness to the Soul’s Wakefulness
+- The Blessed Vision and the Communion of Saints
+- Vision of the Faithful with God
+- Critique of the Anabaptists
+- Rebuttal and Plea to the King
+- Call to Support the Gospel
+- Exhortation to the King
+- On the Presence of Christ’s Body in the Supper
+- Spiritual Eating and Confidence in Christ
+- Sacramental Eating in the Supper
+- Improper Sacramental Eating
+- Dispute over the Efficacy of the Sacraments
+- Against the Presence of the Natural Body
+- Argument from Reverence
+- On the Efficacy of the Sacraments
+- Appendix I: Bullinger’s Preface to the 1536 Edition
+- Appendix II: Leo Jud’s Preface to His German Translation
   
 ---
 
