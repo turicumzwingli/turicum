@@ -38,6 +38,12 @@ Zwingli’s theology placed ultimate authority in the Word of God, not in bishop
 <p class="centered">June 30, 1525</p>
 
 ---
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+---
 
 ## Von dem Predigtamt
 
