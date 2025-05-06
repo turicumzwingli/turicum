@@ -29,6 +29,12 @@ Insert editor's note
 <p class="centered">1531</p>
 
 ---
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+---
 
 To Charles, Emperor of the Romans, celebrating the German Diet in Augsburg, the account of Huldrych Zwingli's faith
 
