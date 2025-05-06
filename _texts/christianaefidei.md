@@ -59,6 +59,12 @@ In *Christianae Fidei*, then, Zwingli offers a coherent theological vision: one 
 
 ---
 
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
 ## Brief and Clear Exposition of the Christian Faith (1531) 
 
 
