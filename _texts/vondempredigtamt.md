@@ -540,5 +540,7 @@ I was previously unable to reread the little book carefully myself; others have 
 
 ## Suggested Reading
 [Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
+
 [Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
+
 [Preface to The Prophetenbibel (1529)](https://turicumzwingli.github.io/turicum/texts/prophetenbibel/)
