@@ -281,5 +281,7 @@ May the almighty and gracious Father—who through His beloved Son has called us
 
 ## Suggested Reading
 [Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
+
 [Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
+
 [Von dem Predigtamt (1525)](https://turicumzwingli.github.io/turicum/texts/vondempredigtamt/)
