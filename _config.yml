@@ -4,7 +4,7 @@
 title:               Turicum
 tagline:             'The Writings of Huldrych Zwingli'
 description:         'Turicum is an online repository of writings by Huldrych Zwingli.'
-url:                 'http://scstrecker.github.io/'
+url:                 'https://turicumzwingli.github.io/'
 baseurl:             '/turicum'
 
 # About/contact
