@@ -1059,6 +1059,8 @@ Leo Jud.
 
 ## Suggested reading
 [Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
+
 [Preface to The Prophetenbibel (1529)](https://turicumzwingli.github.io/turicum/texts/prophetenbibel/)
+
 [Von dem Predigtamt (1525)](https://turicumzwingli.github.io/turicum/texts/vondempredigtamt/)
 
