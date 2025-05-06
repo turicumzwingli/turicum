@@ -81,6 +81,13 @@ The preface stands as one of Zwingli’s most comprehensive discussions of the r
 
 ---
 
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+---
+
 A Foreword to the Prophets (1529)
 
 Grace, mercy, and peace from God our Father through Christ Jesus our Lord [cf. Romans 1:7; 1 Timothy 1:2; 2 Timothy 1:2]—this is our sincere prayer for all the faithful and devout, from the servants of the Gospel in the city of Zurich.
