@@ -539,8 +539,6 @@ In the *Book on Baptism*, a single word has altered the entire meaning: in *M. M
 I was previously unable to reread the little book carefully myself; others have pointed this out to me. There may well be many more such errors in it. Let each reader attend carefully to the sense.
 
 ## Suggested Reading
-[Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
-
-[Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
-
-[Preface to The Prophetenbibel (1529)](https://turicumzwingli.github.io/turicum/texts/prophetenbibel/)
+- [Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
+- [Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
+- [Preface to The Prophetenbibel (1529)](https://turicumzwingli.github.io/turicum/texts/prophetenbibel/)
