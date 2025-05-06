@@ -280,8 +280,6 @@ He has grafted us into the place of Israel, taking us from among the Gentiles [c
 May the almighty and gracious Father—who through His beloved Son has called us from death to life—grant us His Spirit, true faith, and genuine love. May He ignite in us the light of His truth, so that in reading the Scriptures we do not go astray, but grow each day in the knowledge and love of God [cf. Phil. 1:9]. Amen.
 
 ## Suggested Reading
-[Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
-
-[Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
-
-[Von dem Predigtamt (1525)](https://turicumzwingli.github.io/turicum/texts/vondempredigtamt/)
+- [Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
+- [Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
+- [Von dem Predigtamt (1525)](https://turicumzwingli.github.io/turicum/texts/vondempredigtamt/)
