@@ -57,10 +57,10 @@ Five hundred years after the beginning of his ministry in Zurich, Zwingli remain
 
 ## Sources
 
-- Christianae Fidei (1531)
-- Fidei Ratio (1531)
-- Preface to The Prophetenbibel (1529)
-- Von dem Predigtamt (1525)
+- [Christianae Fidei (1531)](https://turicumzwingli.github.io/turicum/texts/christianaefidei/)
+- [Fidei Ratio (1531)](https://turicumzwingli.github.io/turicum/texts/fideiratio/)
+- [Preface to The Prophetenbibel (1529)](https://turicumzwingli.github.io/turicum/texts/prophetenbibel/)
+- [Von dem Predigtamt (1525)](https://turicumzwingli.github.io/turicum/texts/vondempredigtamt/)
 
 
 ## Current Features
