@@ -17,4 +17,6 @@ Serena Strecker is a Ph.D. candidate in the Department of History at Yale Univer
 
 ## Acknowledgments
 
-Insert acknowledgments here.
+Turicum would like to thank Kayla Shipp and Gavi Levy Haskell at the Yale DHLab for their invaluable assistance conceptualizing this project and facilitating its Version 1.0. 
+
+As the academics working on this project are supported by Yale University, we acknowledge that Yale University and the state of Connecticut occupy the traditional, ancestral, and unceded lands of indigenous peoples and nations, including Mohegan, Mashantucket Pequot, Eastern Pequot, Schaghticoke, Golden Hill Paugussett, Niantic, and the Quinnipiac and other Algonquian speaking peoples. We honor and respect the enduring relationship that exists between these peoples and nations and this land.
