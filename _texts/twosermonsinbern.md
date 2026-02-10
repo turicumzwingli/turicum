@@ -38,6 +38,24 @@ Ecclesiologically, Zwingli stressed that there is one holy, universal church, co
 
 Huldreich Zwinglis sämtliche Werke, vol. 6.1 (Zürich: Berichthaus, 1961) (Corpus Reformatorum 93.1)
 
+---
+
+<a id="title-page" />
+
+<p class="centered larger">Two Sermons in Bern</p>
+
+<p class="centered">January 18 and 19, 1528</p>
+
+---
+
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+---
+
+## Text
 
 The sermon was delivered by Huldrych Zwingli.
 
