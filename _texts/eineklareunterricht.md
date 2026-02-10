@@ -43,9 +43,9 @@ Huldreich Zwinglis sämtliche Werke, vol. 4 (Leipzig: Heinsius, 1927) (Corpus Re
 
 <a id="title-page" />
 
-<p class="centered larger">The Prophets Bible (Prophetenbibel)</p>
+<p class="centered larger">A Clear Instruction on the Lord’s Supper of Christ</p>
 
-<p class="centered">1529</p>
+<p class="centered">23 February, 1526</p>
 
 ---
 
