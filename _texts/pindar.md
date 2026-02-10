@@ -24,6 +24,22 @@ Written at the height of the Zurich Reformation, the preface reveals Zwingli not
 Text: 
 Huldreich Zwinglis sämtliche Werke, vol. 4 (Leipzig: Heinsius, 1927) (Corpus Reformatorum 91)
 
+---
+
+<a id="title-page" />
+
+<p class="centered larger">Praefatio und Epistola Zwinglis zu einer Pindar-Ausgabe</p>
+
+---
+
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+---
+
+## Text
 
 To students of languages, Huldrych Zwingli sends greetings.
 Whoever endeavors to praise Pindar, let me begin with a Horatian image, is attempting to fly with Daedalus’s waxen wings, dearest reader. For to gather his praise from the heights of heaven to the depths of hell, where the sound of his lyre has penetrated, demands more than what can be borne by wings fastened with soft wax. Such wings cannot withstand either the burning of the upper air or the flames of the underworld. Hence, whoever attempts to grasp such boundless glory will be giving names to the glassy sea, that is, striving in vain.
