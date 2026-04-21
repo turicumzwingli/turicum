@@ -1,3 +1,4 @@
+---
 layout: narrative
 title: "On the Canon of the Mass"
 author: Huldrych Zwingli
